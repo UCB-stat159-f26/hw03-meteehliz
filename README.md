@@ -8,7 +8,7 @@ New York Times Serena Williams graphic (without annotations).
 ## Installation
 
 ```bash
-pip install git+https://github.com/MeteEhliz/tennishw.git
+pip install git+https://github.com/UCB-stat159-f26/hw03-meteehliz.git
 ```
 
 ## Usage
